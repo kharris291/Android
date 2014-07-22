@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/TVFileinfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Please note the information below and then press the save"
+        />
+    
+    <TextView
+        android:id="@+id/TVsave"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />
+
+    <Button
+        android:id="@+id/bSave"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         />
+
+    <TextView
+        android:id="@+id/TVFileinfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="Please Save before Continuing from this page"
+        />
+    <Button
+        android:id="@+id/bcontinuetohome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For first time savers please press once saved appears." />
+
+    <Button
+        android:id="@+id/Bexit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="If exiting game please press this" />
+
+</LinearLayout>

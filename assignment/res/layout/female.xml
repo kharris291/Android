@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvMale"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Your character is a female!"
+        android:textSize="32dp" />
+
+    <TextView
+        android:id="@+id/tvfemale"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Care to see what she looks like?"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/bstandfm"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Standard character" />
+
+    <Button
+        android:id="@+id/bChoosefm"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Goth Girl" />
+
+
+</LinearLayout>

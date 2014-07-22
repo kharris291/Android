@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/blank"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <Button
+        android:id="@+id/custommalehead"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight=".55"
+        android:background="@drawable/custom" />
+
+    <Button
+        android:id="@+id/blackchestb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight=".75"
+        android:background="@drawable/black_chest" />
+
+    <Button
+        android:id="@+id/blacklegs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight=".75"
+        android:background="@drawable/black_leg" />
+
+    <Button
+        android:id="@+id/bCTG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".15"
+        android:text="Continue"
+        android:textSize="25dp" />
+
+</LinearLayout>

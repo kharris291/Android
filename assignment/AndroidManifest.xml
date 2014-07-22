@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kev.harris"
+    android:versionCode="3"
+    android:versionName="1.2" >
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="17"/>
+
+    <application
+        android:icon="@drawable/man21"
+        android:label="@string/app_name" 
+        android:theme="@android:style/Theme.NoTitleBar"
+        >
+        <activity
+            android:name=".AssignmentActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="kev.harris.MAINMENU" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <!-- makes it so that the code is recognised but is to run in the background -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainGame"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="kev.harris.MainGame" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <!-- makes it so that the code is recognised but is to run in the background -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Savefile"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- saving stuff -->
+        </activity>
+        <activity
+            android:name=".Continues"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="kev.harris.CONTINUES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <!-- makes it so that the code is recognised but is to run in the background -->
+            </intent-filter>
+            <!-- continuing -->
+        </activity>
+        <activity
+            android:name=".Dead"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".NewGame"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- used for the choice between male and female -->
+        </activity>
+        <activity
+            android:name=".Male"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- for choosing the standard or custom picture -->
+        </activity>
+        <activity
+            android:name=".CMPicture"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- for the male custom picture -->
+        </activity>
+        
+        <activity
+            android:name=".MPicture"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- for the male normal picture -->
+        </activity>
+        <activity
+            android:name=".Female"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- for the female choice of picture -->
+        </activity>
+        <activity
+            android:name=".CfPicture"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- for the female custom picture -->
+        </activity>
+        <activity
+            android:name=".FPicture"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+
+            <!-- for the female normal picture -->
+        </activity>
+    </application>
+
+</manifest>
