@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351429547797
+error,log,,,"Program Error: invalid structured document event",1351429553920
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429553921
+error,log,,,"Overlapping start in StyleRange 315:1",1351429555190
+error,log,,,"Program Error: invalid structured document event",1351429555191
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429555192
+error,log,,,"Overlapping start in StyleRange 315:1",1351429555744
+error,log,,,"Overlapping start in StyleRange 315:2",1351429556732
+error,log,,,"Program Error: invalid structured document event",1351429556733
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429556734
+error,log,,,"Overlapping start in StyleRange 315:2",1351429557319
+error,log,,,"Overlapping start in StyleRange 317:1",1351429557320
+error,log,,,"Program Error: invalid structured document event",1351429557321
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429557322
+error,log,,,"Overlapping start in StyleRange 315:2",1351429557873
+error,log,,,"Overlapping start in StyleRange 317:1",1351429557874
+error,log,,,"Overlapping start in StyleRange 315:2",1351429558303
+error,log,,,"Overlapping start in StyleRange 317:2",1351429558304
+error,log,,,"Program Error: invalid structured document event",1351429558305
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429558306
+error,log,,,"Overlapping start in StyleRange 315:2",1351429558621
+error,log,,,"Overlapping start in StyleRange 317:3",1351429558621
+error,log,,,"Program Error: invalid structured document event",1351429558622
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429558623
+error,log,,,"Unhandled event loop exception",1351429558645
+error,log,,,"Overlapping start in StyleRange 315:2",1351429558816
+error,log,,,"Overlapping start in StyleRange 317:4",1351429558817
+error,log,,,"Program Error: invalid structured document event",1351429558818
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429558820
+error,log,,,"Unhandled event loop exception",1351429558846
+error,log,,,"Overlapping start in StyleRange 316:1",1351429558969
+error,log,,,"Overlapping start in StyleRange 317:5",1351429558969
+error,log,,,"Program Error: invalid structured document event",1351429558970
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429558971
+error,log,,,"Unhandled event loop exception",1351429559000
+error,log,,,"Overlapping start in StyleRange 315:2",1351429559193
+error,log,,,"Overlapping start in StyleRange 317:5",1351429559193
+error,log,,,"Overlapping start in StyleRange 317:5",1351429560060
+error,log,,,"Program Error: invalid structured document event",1351429560061
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429560063
+error,log,,,"Unhandled event loop exception",1351429560088
+error,log,,,"Overlapping start in StyleRange 315:2",1351429572943
+error,log,,,"Overlapping start in StyleRange 317:5",1351429572944
+error,log,,,"Program Error: invalid structured document event",1351429572945
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429572947
+error,log,,,"Overlapping start in StyleRange 315:2",1351429573527
+error,log,,,"Overlapping start in StyleRange 317:5",1351429573527
+error,log,,,"Overlapping start in StyleRange 315:2",1351429574053
+error,log,,,"Overlapping start in StyleRange 317:5",1351429574054
+error,log,,,"Program Error: invalid structured document event",1351429574055
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429574056
+error,log,,,"Overlapping start in StyleRange 315:2",1351429576298
+error,log,,,"Overlapping start in StyleRange 317:6",1351429576299
+error,log,,,"Program Error: invalid structured document event",1351429576300
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429576301
+error,log,,,"Overlapping start in StyleRange 315:2",1351429576850
+error,log,,,"Overlapping start in StyleRange 317:6",1351429576851
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429578759
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429583226
+error,log,,,"Overlapping start in StyleRange 315:2",1351429583266
+error,log,,,"Overlapping start in StyleRange 317:6",1351429583267
+error,log,,,"Program Error: invalid structured document event",1351429583271
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429583273
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351429586537
+error,log,,,"Overlapping start in StyleRange 315:2",1351429586563
+error,log,,,"Overlapping start in StyleRange 317:6",1351429586564
+error,log,,,"Overlapping start in StyleRange 315:2",1351429586698
+error,log,,,"Overlapping start in StyleRange 317:6",1351429586699
+error,log,,,"Overlapping start in StyleRange 315:2",1351429587088
+error,log,,,"Overlapping start in StyleRange 317:7",1351429587089
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429590050
+closed,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351429590086
+activated,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.PackageExplorer",1351429592450
+error,log,,,"Overlapping start in StyleRange 315:2",1351429593909
+error,log,,,"Overlapping start in StyleRange 317:7",1351429593909
+error,log,,,"Overlapping start in StyleRange 315:2",1351429593920
+error,log,,,"Overlapping start in StyleRange 317:7",1351429593921
+error,log,,,"Overlapping start in StyleRange 315:2",1351429594427
+error,log,,,"Overlapping start in StyleRange 317:7",1351429594427
+opened,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351429594451
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351429594665
+error,log,,,"Overlapping start in StyleRange 315:2",1351429599413
+error,log,,,"Overlapping start in StyleRange 317:6",1351429599414
+error,log,,,"Program Error: invalid structured document event",1351429599415
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429599417
+error,log,,,"Overlapping start in StyleRange 315:2",1351429600631
+error,log,,,"Overlapping start in StyleRange 317:6",1351429600632
+error,log,,,"Program Error: invalid structured document event",1351429600633
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429600635
+error,log,,,"Overlapping start in StyleRange 315:2",1351429601409
+error,log,,,"Overlapping start in StyleRange 317:6",1351429601410
+error,log,,,"Program Error: invalid structured document event",1351429601411
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429601412
+error,log,,,"Overlapping start in StyleRange 315:2",1351429602590
+error,log,,,"Overlapping start in StyleRange 317:7",1351429602590
+error,log,,,"Program Error: invalid structured document event",1351429602593
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429602616
+error,log,,,"Overlapping start in StyleRange 315:2",1351429602796
+error,log,,,"Overlapping start in StyleRange 317:7",1351429602797
+error,log,,,"Overlapping start in StyleRange 324:1",1351429602797
+error,log,,,"Program Error: invalid structured document event",1351429602799
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429602801
+error,log,,,"Overlapping start in StyleRange 315:2",1351429602937
+error,log,,,"Overlapping start in StyleRange 317:7",1351429602937
+error,log,,,"Overlapping start in StyleRange 324:1",1351429602938
+error,log,,,"Program Error: invalid structured document event",1351429602939
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429602940
+error,log,,,"Unhandled event loop exception",1351429602961
+error,log,,,"Overlapping start in StyleRange 315:2",1351429602983
+error,log,,,"Overlapping start in StyleRange 317:7",1351429602984
+error,log,,,"Overlapping start in StyleRange 324:1",1351429602984
+error,log,,,"Program Error: invalid structured document event",1351429602987
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429602988
+error,log,,,"Unhandled event loop exception",1351429603012
+error,log,,,"Overlapping start in StyleRange 316:1",1351429603085
+error,log,,,"Overlapping start in StyleRange 317:7",1351429603086
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603086
+error,log,,,"Program Error: invalid structured document event",1351429603088
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603089
+error,log,,,"Unhandled event loop exception",1351429603109
+error,log,,,"Overlapping start in StyleRange 317:7",1351429603270
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603271
+error,log,,,"Program Error: invalid structured document event",1351429603272
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603273
+error,log,,,"Unhandled event loop exception",1351429603292
+error,log,,,"Overlapping start in StyleRange 318:6",1351429603310
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603310
+error,log,,,"Program Error: invalid structured document event",1351429603311
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603313
+error,log,,,"Unhandled event loop exception",1351429603316
+error,log,,,"Overlapping start in StyleRange 319:5",1351429603362
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603362
+error,log,,,"Program Error: invalid structured document event",1351429603364
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603365
+error,log,,,"Unhandled event loop exception",1351429603368
+error,log,,,"Overlapping start in StyleRange 320:4",1351429603478
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603478
+error,log,,,"Program Error: invalid structured document event",1351429603479
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603480
+error,log,,,"Unhandled event loop exception",1351429603499
+error,log,,,"Overlapping start in StyleRange 321:3",1351429603597
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603597
+error,log,,,"Program Error: invalid structured document event",1351429603598
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603600
+error,log,,,"Unhandled event loop exception",1351429603616
+error,log,,,"Overlapping start in StyleRange 322:2",1351429603681
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603682
+error,log,,,"Program Error: invalid structured document event",1351429603683
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603684
+error,log,,,"Unhandled event loop exception",1351429603703
+error,log,,,"Overlapping start in StyleRange 323:1",1351429603746
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603746
+error,log,,,"Program Error: invalid structured document event",1351429603747
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603749
+error,log,,,"Unhandled event loop exception",1351429603777
+error,log,,,"Overlapping start in StyleRange 324:1",1351429603875
+error,log,,,"Program Error: invalid structured document event",1351429603876
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603877
+error,log,,,"Overlapping start in StyleRange 325:6",1351429603917
+error,log,,,"Overlapping start in StyleRange 331:2",1351429603917
+error,log,,,"Overlapping start in StyleRange 333:4",1351429603918
+error,log,,,"Program Error: invalid structured document event",1351429603920
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603921
+error,log,,,"Overlapping start in StyleRange 326:5",1351429603949
+error,log,,,"Overlapping start in StyleRange 331:2",1351429603950
+error,log,,,"Overlapping start in StyleRange 333:5",1351429603950
+error,log,,,"Program Error: invalid structured document event",1351429603952
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429603953
+error,log,,,"Overlapping start in StyleRange 327:4",1351429603998
+error,log,,,"Overlapping start in StyleRange 331:2",1351429603999
+error,log,,,"Overlapping start in StyleRange 333:6",1351429603999
+error,log,,,"Program Error: invalid structured document event",1351429604000
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604002
+error,log,,,"Overlapping start in StyleRange 328:3",1351429604173
+error,log,,,"Overlapping start in StyleRange 331:2",1351429604174
+error,log,,,"Overlapping start in StyleRange 333:7",1351429604174
+error,log,,,"Program Error: invalid structured document event",1351429604176
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604177
+error,log,,,"Overlapping start in StyleRange 329:2",1351429604235
+error,log,,,"Overlapping start in StyleRange 331:2",1351429604236
+error,log,,,"Overlapping start in StyleRange 333:8",1351429604236
+error,log,,,"Program Error: invalid structured document event",1351429604238
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604239
+error,log,,,"Overlapping start in StyleRange 330:1",1351429604264
+error,log,,,"Overlapping start in StyleRange 331:2",1351429604265
+error,log,,,"Overlapping start in StyleRange 333:9",1351429604265
+error,log,,,"Program Error: invalid structured document event",1351429604267
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604268
+error,log,,,"Overlapping start in StyleRange 331:2",1351429604292
+error,log,,,"Overlapping start in StyleRange 333:10",1351429604293
+error,log,,,"Program Error: invalid structured document event",1351429604295
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604296
+error,log,,,"Overlapping start in StyleRange 332:1",1351429604317
+error,log,,,"Overlapping start in StyleRange 333:11",1351429604318
+error,log,,,"Program Error: invalid structured document event",1351429604319
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604324
+error,log,,,"Overlapping start in StyleRange 333:12",1351429604481
+error,log,,,"Program Error: invalid structured document event",1351429604482
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604483
+error,log,,,"Overlapping start in StyleRange 334:11",1351429604501
+error,log,,,"Overlapping start in StyleRange 345:1",1351429604502
+error,log,,,"Program Error: invalid structured document event",1351429604504
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604505
+error,log,,,"Overlapping start in StyleRange 335:10",1351429604585
+error,log,,,"Overlapping start in StyleRange 345:1",1351429604585
+error,log,,,"Overlapping start in StyleRange 346:1",1351429604586
+error,log,,,"Program Error: invalid structured document event",1351429604587
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429604588
+error,log,,,"IStructuredDocumentRegion management failed.",1351429608545
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429608555
+error,log,,,"Program Error: invalid structured document event",1351429612064
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429612184
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429612186
+error,log,,,"Program Error: invalid structured document event",1351429613065
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429613151
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429613162
+error,log,,,"Program Error: invalid structured document event",1351429613841
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429613842
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429613847
+error,log,,,"Program Error: invalid structured document event",1351429614310
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429614311
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429614321
+error,log,,,"Program Error: invalid structured document event",1351429614576
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429614578
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429614581
+error,log,,,"Program Error: invalid structured document event",1351429614858
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429614859
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429614864
+error,log,,,"Program Error: invalid structured document event",1351429616265
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429616286
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429616291
+error,log,,,"Program Error: invalid structured document event",1351429616295
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429616296
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429616299
+error,log,,,"Index out of bounds",1351429616302
+error,log,,,"Index out of bounds",1351429616304
+error,log,,,"Program Error: invalid structured document event",1351429616305
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429616306
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429616311
+error,log,,,"Program Error: invalid structured document event",1351429616377
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429616378
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429616388
+error,log,,,"Program Error: invalid structured document event",1351429616462
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429616463
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429616468
+error,log,,,"Program Error: invalid structured document event",1351429616560
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429616561
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429616566
+error,log,,,"Program Error: invalid structured document event",1351429617911
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429617913
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429617917
+error,log,,,"Program Error: invalid structured document event",1351429620346
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429620348
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429620352
+error,log,,,"Program Error: invalid structured document event",1351429620853
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429620854
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429620857
+error,log,,,"Program Error: invalid structured document event",1351429621282
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429621283
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429621287
+error,log,,,"Program Error: invalid structured document event",1351429621434
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429621435
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429621439
+error,log,,,"Program Error: invalid structured document event",1351429621728
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429621729
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429621732
+error,log,,,"Program Error: invalid structured document event",1351429621954
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429621962
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429621966
+error,log,,,"Program Error: invalid structured document event",1351429622194
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429622195
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429622205
+error,log,,,"Program Error: invalid structured document event",1351429622431
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429622432
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429622433
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429634197
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429637249
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429637634
+closed,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351429637673
+error,log,,,"Program Error: invalid structured document event",1351429637716
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1351429637718
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429640221
+activated,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.PackageExplorer",1351429643929
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429644225
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429648456
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429649694
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429649784
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429650552
+closed,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.PackageExplorer",1351429650644
+closed,view,org.eclipse.ui.ide,3.8.0.v20120521-2329,"org.eclipse.ui.views.ProblemView",1351429650687
+closed,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.JavadocView",1351429650703
+closed,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.SourceView",1351429650746
+closed,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.LogCatView",1351429650757
+closed,view,org.eclipse.ui.console,3.5.100.v20120521-2012,"org.eclipse.ui.console.ConsoleView",1351429650782
+closed,view,org.eclipse.mylyn.tasks.ui,3.8.0.v20120612-0600,"org.eclipse.mylyn.tasks.ui.views.tasks",1351429650806
+closed,view,org.eclipse.ui.views,3.6.100.v20120521-2329,"org.eclipse.ui.views.ContentOutline",1351429650831
+closed,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1351429650856
+closed,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429650941
+closed,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429650973
+closed,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351429651074

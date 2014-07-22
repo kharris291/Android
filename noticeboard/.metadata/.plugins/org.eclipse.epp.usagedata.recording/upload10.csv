@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427647556
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427647691
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351427650870
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427652683
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427687705
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.cut",1351427693324
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427696979
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427697876
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351427700060
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351427702200
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351427705991
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427707477
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427709341
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.cut",1351427743953
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351427750539
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351427755594
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineStart",1351427785265
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351427789196
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351427793907
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427798209
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427857867
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351427860771
+executed,command,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.edit.text.java.format",1351427862480
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427865365
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427865623
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427870209
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427870328
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427872888
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427873015
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351427875532
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351427877782
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427882359
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351427882497
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351427888196
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351427939407
+activated,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.LogCatView",1351427945628
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351427948180
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351427974966
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordPrevious",1351428010625
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordPrevious",1351428012133
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordPrevious",1351428012447
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.copy",1351428015930
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351428017958
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineStart",1351428027109
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351428031577
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351428065596
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.wordNext",1351428078364
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351428079271
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineStart",1351428079960
+executed,command,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.edit.text.java.format",1351428084895
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineEnd",1351428089320
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428092631
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351428095428
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428097892
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428102013
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428105474
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428107438
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428109814
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428112433
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351428123302
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351428124257
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.wordNext",1351428127870
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.wordNext",1351428128535
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428140444
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.cut",1351428161057
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineStart",1351428162687
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428164763
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428164937
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428165126
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428166038
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428166601
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428166848
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.delete",1351428167590
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineEnd",1351428177655
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351428180079
+executed,command,org.eclipse.wst.sse.ui,1.3.100.v201204260100,"org.eclipse.wst.sse.ui.format.document",1351428183935
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428186338
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineStart",1351428193033
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.saveAll",1351428194446
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428197598
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428204972
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428208797
+activated,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.PackageExplorer",1351428212716
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428213840
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428215202
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428215688
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428216019
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428216051
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428216378
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428216390
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428216712
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428216730
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.refresh",1351428217051
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428218618
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428220272
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428220330
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351428221699
+closed,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428221893
+activated,view,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.PackageExplorer",1351428224389
+opened,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428224657
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428224857
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351428235770
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351428241850
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428258123
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428259935
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428261641
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428262335
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428262827
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428263360
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428276705
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428282539
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351428386759
+executed,command,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.edit.text.java.format",1351428389208
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428400119
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428400256
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428403464
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428403604
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428425767
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428444917
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineStart",1351428457562
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordNext",1351428458019
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordNext",1351428458301
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordNext",1351428458529
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428498644
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428499220
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428499677
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428503963
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428623361
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428642127
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428643830
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428644287
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428644557
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428644894
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428645133
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351428645380
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428650804
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.redo",1351428688765
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.redo",1351428689194
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.redo",1351428690974
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428699183
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428699320
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428701766
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428711131
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428713885
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428716271
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428726155
+executed,command,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.edit.text.java.format",1351428727984
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428732734
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351428756326
+activated,editor,org.eclipse.jdt.ui,3.8.0.v20120524-1551,"org.eclipse.jdt.ui.CompilationUnitEditor",1351428760031
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428786819
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineStart",1351428816643
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.file.save",1351428819755
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429385103
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429386531
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429387232
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429402886
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429440662
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordPrevious",1351429453731
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.wordPrevious",1351429454813
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.copy",1351429455818
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351429458075
+deactivated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429461829
+activated,workbench,org.eclipse.ui.workbench,3.103.0.v20120530-1824,"",1351429461948
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429474698
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429476290
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429476730
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429477456
+activated,editor,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.editors.CommonXmlEditor",1351429482098
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351429487300
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.goto.lineEnd",1351429489006
+error,log,,,"",1351429493429
+error,log,,,"Program Error: invalid structured document event",1351429497804
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429497805
+executed,command,org.eclipse.ui.workbench.texteditor,3.8.0.v20120523-1310,"org.eclipse.ui.edit.text.select.lineEnd",1351429502537
+error,log,,,"Program Error: invalid structured document event",1351429504160
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429504162
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.cut",1351429504164
+error,log,,,"Program Error: invalid structured document event",1351429506031
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429506032
+executed,command,org.eclipse.wst.sse.ui,1.3.100.v201204260100,"org.eclipse.wst.sse.ui.format.document",1351429506041
+error,log,,,"Program Error: invalid structured document event",1351429509058
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429509060
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.paste",1351429509066
+error,log,,,"",1351429511060
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429511072
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.redo",1351429512788
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429515714
+error,log,,,"Program Error: invalid structured document event",1351429516098
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516100
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516101
+error,log,,,"Program Error: invalid structured document event",1351429516588
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516589
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516599
+error,log,,,"Program Error: invalid structured document event",1351429516671
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516672
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516677
+error,log,,,"Program Error: invalid structured document event",1351429516753
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516754
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516763
+error,log,,,"Program Error: invalid structured document event",1351429516774
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516776
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516779
+error,log,,,"Program Error: invalid structured document event",1351429516799
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516802
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516806
+error,log,,,"Program Error: invalid structured document event",1351429516831
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516833
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516838
+error,log,,,"Program Error: invalid structured document event",1351429516867
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516879
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516882
+error,log,,,"Index out of bounds",1351429516902
+error,log,,,"Index out of bounds",1351429516904
+error,log,,,"Program Error: invalid structured document event",1351429516905
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516906
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516911
+error,log,,,"Program Error: invalid structured document event",1351429516979
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429516981
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429516991
+error,log,,,"Program Error: invalid structured document event",1351429517070
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517072
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517075
+error,log,,,"Program Error: invalid structured document event",1351429517302
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517304
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517309
+error,log,,,"Program Error: invalid structured document event",1351429517314
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517316
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517319
+error,log,,,"Program Error: invalid structured document event",1351429517325
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517326
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517329
+error,log,,,"Program Error: invalid structured document event",1351429517356
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517357
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517360
+error,log,,,"Program Error: invalid structured document event",1351429517391
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517393
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517396
+error,log,,,"Program Error: invalid structured document event",1351429517425
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517427
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517430
+error,log,,,"Program Error: invalid structured document event",1351429517460
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517461
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517464
+error,log,,,"Program Error: invalid structured document event",1351429517495
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517496
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517500
+error,log,,,"Program Error: invalid structured document event",1351429517568
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517569
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517579
+error,log,,,"Program Error: invalid structured document event",1351429517657
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517658
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517660
+error,log,,,"Program Error: invalid structured document event",1351429517737
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517739
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517740
+error,log,,,"Program Error: invalid structured document event",1351429517815
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517817
+error,log,,,"Program Error: invalid structured document event",1351429517817
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517819
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517829
+error,log,,,"Program Error: invalid structured document event",1351429517903
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517904
+error,log,,,"Program Error: invalid structured document event",1351429517905
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517907
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517917
+error,log,,,"Program Error: invalid structured document event",1351429517995
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429517997
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429517998
+error,log,,,"Program Error: invalid structured document event",1351429518077
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429518079
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429518080
+error,log,,,"Program Error: invalid structured document event",1351429518082
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.sse.core"".",1351429518084
+executed,command,org.eclipse.ui,3.103.0.v20120521-2329,"org.eclipse.ui.edit.undo",1351429518085
